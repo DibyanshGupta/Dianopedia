@@ -1,13 +1,3 @@
-{
-  "schemaVersion": 1,
-  "packages": {
-    "com.ptc.vuforia.engine": {
-      "tarball": {
-        "hash": "7cd44775a6dc",
-        "mtime": 1710396836000,
-        "size": 139976826,
-        "localPath": "C:\\Users\\HP\\Dianopedia\\Packages\\com.ptc.vuforia.engine-10.22.5.tgz"
-      }
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d137a0734424c0c59e2f6336657203d54531cd89653adae6139c86135fe575f1
+size 297
