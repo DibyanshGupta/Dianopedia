@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rex-Idle
+* source:	https://sketchfab.com/3d-models/rex-idle-1f286d397889438683b15a08226745e1
+* author:	nolan97354 (https://sketchfab.com/nolan97354)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rex-Idle" (https://sketchfab.com/3d-models/rex-idle-1f286d397889438683b15a08226745e1) by nolan97354 (https://sketchfab.com/nolan97354) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

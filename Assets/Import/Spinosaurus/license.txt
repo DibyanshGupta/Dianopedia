@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spinosaurus
+* source:	https://sketchfab.com/3d-models/spinosaurus-7a9f1cef04c14271a8bd82c99a157066
+* author:	greatdedgamingidk (https://sketchfab.com/greatdedgamingidk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spinosaurus" (https://sketchfab.com/3d-models/spinosaurus-7a9f1cef04c14271a8bd82c99a157066) by greatdedgamingidk (https://sketchfab.com/greatdedgamingidk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
